@@ -1,0 +1,4 @@
+#includes<stdio>.in
+Void main() 
+{
+Printf(hello world....!!) ;
